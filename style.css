@@ -29,4 +29,7 @@ section{
     color: #fff;
 }
 h1{padding-top: 100px;font-size: 4em;}
-footer{color: #fff; text-align: center;background: #000;padding: 20px 0px;}
+footer{
+    color: #fff; text-align: center;
+    background: #000;padding: 20px 0px;
+}
